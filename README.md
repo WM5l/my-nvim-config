@@ -1,2 +1,3 @@
 # my-nvim-config
-nvim with lazyvim as pluggin server, model based in the config of stan tech, (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHU3aHcta1VveWJYNkpseGlpZ2VHSTJxWV9TZ3xBQ3Jtc0tuaVZhdXgwR2JQa2g4SkltWUp5ZFcteW9hUGppaVZsNng4SnIxRVhyX3BEU2M3NHo0UGVoOVdmOW1NSGlqN1k3Mk00UUVoS1pNZ1FKLVVxenJGU3RSeEJWM1hlYjdFOUg2MGN1TlZwSkFzRkNiNEllZw&q=https%3A%2F%2Fgithub.com%2FFStanDev%2FmyNvChadConfig&v=RYAfhkw_1QQ)
+nvim with lazyvim as pluggin server, model based in the config of stan tech
+https://github.com/FStanDev/myNvimConfig
